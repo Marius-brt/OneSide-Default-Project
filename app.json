@@ -1,0 +1,5 @@
+{
+    "main": "server.js",
+    "appIndex": "index.html",
+    "favicon": "favicon.ico"
+}

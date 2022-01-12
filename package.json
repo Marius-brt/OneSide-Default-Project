@@ -2,13 +2,13 @@
   "name": "oneside-new-project",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "oneside": "^1.0.2"
+    "oneside": "^1.1.0"
   }
 }
