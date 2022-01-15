@@ -2,18 +2,20 @@
   "name": "oneside-default-project",
   "version": "1.0.0",
   "description": "OneSide TypeScript template",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tsc && node lib/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Marius-brt/OneSide-Default-Project.git"
-  },
+  "files": [
+    "lib/**/*"
+  ],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Marius-brt/OneSide-Default-Project/issues"
+  "devDependencies": {
+    "typescript": "^4.5.4"
   },
-  "homepage": "https://github.com/Marius-brt/OneSide-Default-Project#readme"
+  "dependencies": {
+    "oneside": "^2.0.3"
+  }
 }
