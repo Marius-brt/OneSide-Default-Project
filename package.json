@@ -1,0 +1,19 @@
+{
+  "name": "oneside-default-project",
+  "version": "1.0.0",
+  "description": "OneSide TypeScript template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marius-brt/OneSide-Default-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marius-brt/OneSide-Default-Project/issues"
+  },
+  "homepage": "https://github.com/Marius-brt/OneSide-Default-Project#readme"
+}
