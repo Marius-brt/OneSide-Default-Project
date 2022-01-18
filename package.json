@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "oneside": "^2.1.0"
+    "oneside": "^2.1.2"
   }
 }
